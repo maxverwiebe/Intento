@@ -1,0 +1,501 @@
+utterance,intent
+Weather report right now?,weather.request
+Do I need an umbrella.,weather.request
+How's the weather right now.,weather.request
+Do I need an umbrella,weather.request
+Give me the forecast today?,weather.request
+Weather report today.,weather.request
+Do I need an umbrella this afternoon.,weather.request
+Show me the weather this afternoon?,weather.request
+Show me the weather this afternoon.,weather.request
+Show me the weather tomorrow,weather.request
+Weather report right now,weather.request
+Give me the forecast this afternoon.,weather.request
+What's the weather like today?,weather.request
+Is it sunny outside tomorrow?,weather.request
+Weather forecast right now,weather.request
+Show me the weather today,weather.request
+Do I need an umbrella this afternoon,weather.request
+Tell me the weather right now?,weather.request
+Give me the forecast tomorrow,weather.request
+Show me the weather today?,weather.request
+How's the weather,weather.request
+Do I need an umbrella?,weather.request
+Weather report?,weather.request
+Do I need an umbrella right now?,weather.request
+Do I need an umbrella tomorrow,weather.request
+Is it sunny outside today.,weather.request
+What's the weather like right now?,weather.request
+Is it going to rain tomorrow,weather.request
+Do I need an umbrella tomorrow.,weather.request
+Weather forecast today,weather.request
+Weather report today?,weather.request
+Weather report tomorrow.,weather.request
+Show me the weather?,weather.request
+Is it sunny outside this afternoon,weather.request
+Is it sunny outside today,weather.request
+How's the weather right now,weather.request
+How's the weather.,weather.request
+Give me the forecast this afternoon,weather.request
+How's the weather this afternoon,weather.request
+Weather report tomorrow?,weather.request
+Give me the forecast tomorrow?,weather.request
+Weather forecast this afternoon,weather.request
+Weather forecast today.,weather.request
+Tell me the weather today.,weather.request
+Weather forecast,weather.request
+Give me the forecast.,weather.request
+Is it going to rain right now.,weather.request
+Is it sunny outside this afternoon.,weather.request
+Weather forecast tomorrow,weather.request
+Weather report right now.,weather.request
+Hey there there!,smalltalk.greeting
+Good evening!!,smalltalk.greeting
+Good evening there!!,smalltalk.greeting
+Hello :),smalltalk.greeting
+Hi there!,smalltalk.greeting
+Hey there!,smalltalk.greeting
+Good afternoon :)!,smalltalk.greeting
+Hello!,smalltalk.greeting
+Hi :)!,smalltalk.greeting
+Good evening :),smalltalk.greeting
+Good morning!,smalltalk.greeting
+Good evening,smalltalk.greeting
+Good evening there!,smalltalk.greeting
+Hey there,smalltalk.greeting
+Good evening!,smalltalk.greeting
+Good evening there,smalltalk.greeting
+Hi there there,smalltalk.greeting
+Hello there!!,smalltalk.greeting
+Hi there there!,smalltalk.greeting
+Good evening :)!,smalltalk.greeting
+Yo!,smalltalk.greeting
+Howdy :),smalltalk.greeting
+Hey :)!,smalltalk.greeting
+Hi there!!,smalltalk.greeting
+Good morning there!!,smalltalk.greeting
+Good afternoon!!,smalltalk.greeting
+Hi there :),smalltalk.greeting
+Hi there :)!,smalltalk.greeting
+Hi!!,smalltalk.greeting
+Yo there,smalltalk.greeting
+Good morning there!,smalltalk.greeting
+Good afternoon,smalltalk.greeting
+Hi!,smalltalk.greeting
+Howdy!!,smalltalk.greeting
+Hi there,smalltalk.greeting
+Hey there :),smalltalk.greeting
+Hello there!,smalltalk.greeting
+Howdy!,smalltalk.greeting
+Hey :),smalltalk.greeting
+Hey!!,smalltalk.greeting
+Yo :)!,smalltalk.greeting
+Good afternoon!,smalltalk.greeting
+Hi there there!!,smalltalk.greeting
+Good afternoon there!,smalltalk.greeting
+Good afternoon there,smalltalk.greeting
+Yo there!,smalltalk.greeting
+Good afternoon :),smalltalk.greeting
+Good morning there,smalltalk.greeting
+Hey there!!,smalltalk.greeting
+Hey there there!!,smalltalk.greeting
+Later now!,smalltalk.goodbye
+Bye bye!,smalltalk.goodbye
+See you soon for now!,smalltalk.goodbye
+Farewell :),smalltalk.goodbye
+Goodbye for now!,smalltalk.goodbye
+Goodbye for now,smalltalk.goodbye
+Farewell!,smalltalk.goodbye
+Later,smalltalk.goodbye
+Bye for now,smalltalk.goodbye
+See you now,smalltalk.goodbye
+Bye :),smalltalk.goodbye
+See ya :),smalltalk.goodbye
+Farewell for now,smalltalk.goodbye
+Catch you later,smalltalk.goodbye
+Farewell for now!,smalltalk.goodbye
+Bye bye :),smalltalk.goodbye
+Farewell!!,smalltalk.goodbye
+See you!,smalltalk.goodbye
+Talk to you later!!,smalltalk.goodbye
+Catch you later now!,smalltalk.goodbye
+Catch you later :),smalltalk.goodbye
+Later for now,smalltalk.goodbye
+Later!!,smalltalk.goodbye
+See you for now!,smalltalk.goodbye
+Goodbye :)!,smalltalk.goodbye
+See you :),smalltalk.goodbye
+Bye for now!,smalltalk.goodbye
+See you soon for now,smalltalk.goodbye
+Bye!,smalltalk.goodbye
+See you soon!,smalltalk.goodbye
+Later for now!,smalltalk.goodbye
+See ya now,smalltalk.goodbye
+Goodbye,smalltalk.goodbye
+See ya!!,smalltalk.goodbye
+See ya!,smalltalk.goodbye
+Catch you later!,smalltalk.goodbye
+See ya :)!,smalltalk.goodbye
+See you,smalltalk.goodbye
+Catch you later :)!,smalltalk.goodbye
+See ya for now,smalltalk.goodbye
+See ya now!,smalltalk.goodbye
+Bye!!,smalltalk.goodbye
+Talk to you later for now!,smalltalk.goodbye
+Farewell now,smalltalk.goodbye
+Farewell :)!,smalltalk.goodbye
+See you soon,smalltalk.goodbye
+Catch you later for now!,smalltalk.goodbye
+Bye bye now!,smalltalk.goodbye
+Bye bye :)!,smalltalk.goodbye
+Catch you later now,smalltalk.goodbye
+Please tell me the time.,time.request
+Can you tell me the time?,time.request
+What time is it now.,time.request
+Do you know the time please?,time.request
+I'd like to know the time please?,time.request
+Give me the time?,time.request
+I'd like to know the time?,time.request
+Can you tell me the time.,time.request
+What's the time right now please.,time.request
+Give me the time.,time.request
+Can you tell me the time please.,time.request
+Give me the time please?,time.request
+Tell me the time now.,time.request
+What's the time right now please?,time.request
+Tell me the time?,time.request
+What time is it please.,time.request
+Current time?,time.request
+What time is it please?,time.request
+I'd like to know the time.,time.request
+Can you tell me the time now?,time.request
+Do you know the time.,time.request
+What's the time right now?,time.request
+Current time please?,time.request
+What time is it now?,time.request
+I'd like to know the time now?,time.request
+Please tell me the time please.,time.request
+Please tell me the time now.,time.request
+Do you know the time please.,time.request
+Give me the time now?,time.request
+Current time please.,time.request
+Tell me the time please.,time.request
+Do you know the time now.,time.request
+Current time.,time.request
+Please tell me the time?,time.request
+Time please?,time.request
+Time please now.,time.request
+What time is it.,time.request
+What time is it?,time.request
+Time please.,time.request
+Do you know the time?,time.request
+What's the time right now now.,time.request
+Time please now?,time.request
+Please tell me the time now?,time.request
+Give me the time now.,time.request
+What's the time right now.,time.request
+Current time now.,time.request
+Time please please.,time.request
+What's the time right now now?,time.request
+Give me the time please.,time.request
+Can you tell me the time please?,time.request
+What's the news for today.,news.request
+News briefing?,news.request
+Give me the latest headlines right now.,news.request
+News headlines today?,news.request
+Tell me the news right now.,news.request
+Anything new happening today?,news.request
+News briefing.,news.request
+Tell me the news please.,news.request
+Any news updates please?,news.request
+Show me today's news.,news.request
+News update please?,news.request
+News briefing today.,news.request
+News briefing please?,news.request
+Latest news please please?,news.request
+Any news updates please.,news.request
+News update please please?,news.request
+Any news updates today?,news.request
+Latest news please please.,news.request
+News headlines?,news.request
+Latest news please today.,news.request
+Anything new happening please?,news.request
+News update please right now.,news.request
+Show me today's news today?,news.request
+What's the news today?,news.request
+News headlines right now.,news.request
+Tell me the news?,news.request
+Anything new happening for today.,news.request
+What's the news for today?,news.request
+Tell me the news for today?,news.request
+Any news updates for today?,news.request
+Latest news please right now.,news.request
+Give me the latest headlines please?,news.request
+Latest news please?,news.request
+News update please today?,news.request
+News update please today.,news.request
+News headlines please?,news.request
+News headlines.,news.request
+Give me the latest headlines.,news.request
+What's the news?,news.request
+What's the news right now?,news.request
+News headlines right now?,news.request
+Tell me the news.,news.request
+Any news updates today.,news.request
+Any news updates?,news.request
+What's the news.,news.request
+Latest news please right now?,news.request
+Latest news please.,news.request
+News headlines please.,news.request
+Show me today's news right now.,news.request
+News update please for today.,news.request
+Tell me something amusing :).,joke.request
+I'd like to hear a joke.,joke.request
+One joke please please.,joke.request
+Say something funny now?,joke.request
+I'd like to hear a joke please?,joke.request
+I need a joke?,joke.request
+One joke please now?,joke.request
+Give me something funny :)!,joke.request
+I need a joke :)!,joke.request
+I need a joke please!,joke.request
+Tell me a joke.,joke.request
+I need a joke now.,joke.request
+I need a joke.,joke.request
+I'd like to hear a joke please!,joke.request
+Tell me a joke please.,joke.request
+Tell me something amusing now?,joke.request
+Say something funny :)!,joke.request
+Tell me a joke!,joke.request
+Say something funny please.,joke.request
+Give me something funny please.,joke.request
+Make me laugh :).,joke.request
+I'd like to hear a joke now?,joke.request
+Give me something funny :)?,joke.request
+I need a joke please.,joke.request
+Say something funny!,joke.request
+Give me something funny.,joke.request
+I'd like to hear a joke now!,joke.request
+Got any jokes!,joke.request
+Say something funny now!,joke.request
+Crack a joke :).,joke.request
+Got any jokes please.,joke.request
+Crack a joke now!,joke.request
+Tell me something amusing please.,joke.request
+Tell me something amusing please?,joke.request
+Say something funny :)?,joke.request
+Make me laugh now!,joke.request
+One joke please please!,joke.request
+I need a joke now!,joke.request
+One joke please?,joke.request
+Give me something funny :).,joke.request
+Got any jokes now?,joke.request
+Give me something funny now.,joke.request
+Tell me a joke now!,joke.request
+One joke please.,joke.request
+Tell me a joke now.,joke.request
+I need a joke please?,joke.request
+Make me laugh :)!,joke.request
+Crack a joke please?,joke.request
+Make me laugh please!,joke.request
+Make me laugh :)?,joke.request
+Set a reminder to call mom tonight please,reminder.set
+Set a reminder: buy groceries,reminder.set
+Remind me to send the report this afternoon thanks.,reminder.set
+Remind me about the meeting tomorrow thanks,reminder.set
+Remind me next Monday to pay rent please.,reminder.set
+Set a reminder to call mom tonight please.,reminder.set
+Set reminder for project deadline,reminder.set
+Set a reminder for lunch at noon please,reminder.set
+Remind me about the meeting tomorrow please.,reminder.set
+Set a reminder to call mom tonight thanks.,reminder.set
+Set a reminder to call mom tonight.,reminder.set
+Remind me to drink water at 3 PM please,reminder.set
+Set a reminder to call mom tonight,reminder.set
+Remind me in two hours to stretch thanks,reminder.set
+Set a reminder: buy groceries thanks.,reminder.set
+Set a reminder for lunch at noon,reminder.set
+Remind me next Monday to pay rent thanks,reminder.set
+Remind me to send the report this afternoon,reminder.set
+Create a reminder for my dentist appointment please.,reminder.set
+Remind me next Monday to pay rent thanks.,reminder.set
+Remind me to drink water at 3 PM thanks,reminder.set
+Remind me to send the report this afternoon please,reminder.set
+Remind me to drink water at 3 PM thanks.,reminder.set
+Set a reminder for lunch at noon thanks.,reminder.set
+Set reminder for project deadline please,reminder.set
+Remind me in two hours to stretch.,reminder.set
+Create a reminder for my dentist appointment please,reminder.set
+Set reminder for project deadline thanks,reminder.set
+Set a reminder to call mom tonight thanks,reminder.set
+Remind me about the meeting tomorrow,reminder.set
+Set a reminder: buy groceries.,reminder.set
+Create a reminder for my dentist appointment thanks.,reminder.set
+Remind me in two hours to stretch please.,reminder.set
+Remind me about the meeting tomorrow thanks.,reminder.set
+Set a reminder: buy groceries thanks,reminder.set
+Create a reminder for my dentist appointment.,reminder.set
+Remind me about the meeting tomorrow please,reminder.set
+Remind me next Monday to pay rent please,reminder.set
+Set reminder for project deadline please.,reminder.set
+Remind me to send the report this afternoon thanks,reminder.set
+Set a reminder: buy groceries please.,reminder.set
+Set a reminder for lunch at noon.,reminder.set
+Set a reminder for lunch at noon thanks,reminder.set
+Remind me to drink water at 3 PM,reminder.set
+Create a reminder for my dentist appointment,reminder.set
+Remind me to send the report this afternoon please.,reminder.set
+Remind me next Monday to pay rent,reminder.set
+Remind me to drink water at 3 PM.,reminder.set
+Set a reminder: buy groceries please,reminder.set
+Remind me next Monday to pay rent.,reminder.set
+Wake me up at 6,alarm.set
+Set an alarm named workout at 8.,alarm.set
+Alarm for 5:30 tomorrow tomorrow,alarm.set
+Add alarm,alarm.set
+Add alarm tomorrow.,alarm.set
+Add alarm tomorrow,alarm.set
+I need an alarm at 4 AM please.,alarm.set
+Set a daily alarm at 5 please,alarm.set
+Schedule an alarm for 10 please.,alarm.set
+Set an alarm named workout at 8 please,alarm.set
+I need an alarm at 4 AM please,alarm.set
+Set a daily alarm at 5 tomorrow,alarm.set
+Schedule an alarm for 10.,alarm.set
+Set an alarm for 7 AM,alarm.set
+Create alarm for 9 tonight please.,alarm.set
+Set a daily alarm at 5 please.,alarm.set
+I need an alarm at 4 AM.,alarm.set
+Set alarm please,alarm.set
+Set a daily alarm at 5,alarm.set
+Alarm for 5:30 tomorrow.,alarm.set
+Wake me up at 6 please.,alarm.set
+I need an alarm at 4 AM,alarm.set
+Alarm for 5:30 tomorrow please,alarm.set
+Schedule an alarm for 10 please,alarm.set
+Create alarm for 9 tonight,alarm.set
+Alarm for 5:30 tomorrow tomorrow.,alarm.set
+Set alarm please.,alarm.set
+I need an alarm at 4 AM tomorrow.,alarm.set
+Alarm for 5:30 tomorrow,alarm.set
+Create alarm for 9 tonight.,alarm.set
+Add alarm please,alarm.set
+Set an alarm for 7 AM tomorrow,alarm.set
+Wake me up at 6 tomorrow,alarm.set
+Schedule an alarm for 10,alarm.set
+Set alarm,alarm.set
+Set a daily alarm at 5.,alarm.set
+Set an alarm for 7 AM.,alarm.set
+Set an alarm named workout at 8 tomorrow.,alarm.set
+Alarm for 5:30 tomorrow please.,alarm.set
+Add alarm.,alarm.set
+Create alarm for 9 tonight tomorrow.,alarm.set
+Set an alarm named workout at 8,alarm.set
+Add alarm please.,alarm.set
+Set alarm tomorrow.,alarm.set
+Wake me up at 6 tomorrow.,alarm.set
+Set an alarm named workout at 8 tomorrow,alarm.set
+Create alarm for 9 tonight please,alarm.set
+Schedule an alarm for 10 tomorrow,alarm.set
+Wake me up at 6.,alarm.set
+Set alarm.,alarm.set
+Turn on some music!,music.play
+Play chill tracks.,music.play
+Play the next song please!,music.play
+Play rock music now.,music.play
+Can you play jazz please!,music.play
+Turn on some music please!,music.play
+Can you play jazz,music.play
+Turn on some music,music.play
+Play pop hits now.,music.play
+Play something relaxing!,music.play
+Start my playlist!,music.play
+Start my playlist please!,music.play
+Play rock music!,music.play
+Play the next song now,music.play
+Play something relaxing now,music.play
+Play my favorite songs please,music.play
+Play pop hits now!,music.play
+Play rock music.,music.play
+Play the next song now!,music.play
+Play pop hits.,music.play
+Play pop hits,music.play
+Play some music now.,music.play
+Play some music please!,music.play
+Play something relaxing please.,music.play
+Can you play jazz please.,music.play
+Play some music,music.play
+Start my playlist,music.play
+Play some music please.,music.play
+Play the next song.,music.play
+Turn on some music now.,music.play
+Start my playlist.,music.play
+Play some music now,music.play
+Play my favorite songs now,music.play
+Can you play jazz!,music.play
+Play chill tracks please.,music.play
+Play chill tracks please!,music.play
+Play my favorite songs!,music.play
+Turn on some music.,music.play
+Play the next song now.,music.play
+Play the next song,music.play
+Play something relaxing.,music.play
+Play my favorite songs now.,music.play
+Play my favorite songs,music.play
+Play some music now!,music.play
+Play my favorite songs.,music.play
+Play my favorite songs please!,music.play
+Play my favorite songs now!,music.play
+Play my favorite songs please.,music.play
+Play rock music please.,music.play
+Start my playlist now.,music.play
+Locate Chinese food near me near me.,restaurant.search
+Locate Chinese food near me?,restaurant.search
+Where can I eat please.,restaurant.search
+Find a pizza place near me.,restaurant.search
+Restaurant recommendations please?,restaurant.search
+Find a burger joint?,restaurant.search
+Show me restaurants around me.,restaurant.search
+Where can I eat?,restaurant.search
+Find a pizza place?,restaurant.search
+Any good sushi places near me?,restaurant.search
+Where can I eat.,restaurant.search
+Find Italian restaurants nearby.,restaurant.search
+Find a pizza place.,restaurant.search
+Locate Chinese food near me please.,restaurant.search
+Restaurant recommendations near me?,restaurant.search
+Find a burger joint.,restaurant.search
+Restaurant recommendations near me.,restaurant.search
+Suggest a café nearby?,restaurant.search
+Find a burger joint near me?,restaurant.search
+Where can I eat near me.,restaurant.search
+Show me restaurants around me near me?,restaurant.search
+Suggest a café nearby.,restaurant.search
+Show me restaurants around me near me.,restaurant.search
+Search for vegan restaurants.,restaurant.search
+Search for vegan restaurants?,restaurant.search
+Restaurant recommendations please.,restaurant.search
+Locate Chinese food near me.,restaurant.search
+Suggest a café nearby near me?,restaurant.search
+Show me restaurants around me?,restaurant.search
+Search for vegan restaurants please?,restaurant.search
+Any good sushi places?,restaurant.search
+Find Italian restaurants nearby please?,restaurant.search
+Show me restaurants around me please?,restaurant.search
+Where can I eat please?,restaurant.search
+Find a pizza place please?,restaurant.search
+Find Italian restaurants nearby?,restaurant.search
+Locate Chinese food near me near me?,restaurant.search
+Find Italian restaurants nearby near me?,restaurant.search
+Search for vegan restaurants please.,restaurant.search
+Any good sushi places please.,restaurant.search
+Where can I eat near me?,restaurant.search
+Find Italian restaurants nearby near me.,restaurant.search
+Locate Chinese food near me please?,restaurant.search
+Find a burger joint please?,restaurant.search
+Any good sushi places near me.,restaurant.search
+Suggest a café nearby please?,restaurant.search
+Restaurant recommendations.,restaurant.search
+Find Italian restaurants nearby please.,restaurant.search
+Search for vegan restaurants near me?,restaurant.search
+Suggest a café nearby near me.,restaurant.search

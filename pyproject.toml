@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+
+[project]
+name = "intento"
+version = "0.1.0"
+authors = [{ name = "Max Verwiebe" }]
+dependencies = [
+    "tensorflow~=2.15",
+    "scikit-learn",
+    "pandas",
+    "numpy",
+    "matplotlib",
+]

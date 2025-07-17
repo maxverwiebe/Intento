@@ -1,0 +1,9 @@
+MAX_VOCAB   = 5000
+MAX_LEN     = 20
+EMBED_DIM   = 100
+VAL_SPLIT   = 0.2
+RANDOM_SEED = 42
+DATA_PATH   = "intento/data/large_test_corpus.csv"
+MODEL_PATH  = "models/intent_model.keras"
+TOKEN_PATH  = "models/tokenizer.joblib"
+LABEL_PATH  = "models/label_encoder.joblib"
