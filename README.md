@@ -124,3 +124,30 @@ LABEL_PATH  = "models/label_encoder.joblib"
 ```
 
 Override via environment variables or CLI flags if needed.
+
+## 5. Analysis
+! For an in-depth analysis please view *intento_analysis.ipynb*!
+
+### 5.1 Confusion matrix
+<img width="675" height="590" alt="image" src="https://github.com/user-attachments/assets/4fcb5554-465b-43ca-b5c1-cb5579270af0" />
+
+### 5.2 Classification stats
+| Intent / Metric        | Precision | Recall | F1‑score | Support |
+| ---------------------- | --------- | ------ | -------- | ------- |
+| **alarm.set**          | 1.00      | 1.00   | 1.00     | 50      |
+| **joke.request**       | 1.00      | 1.00   | 1.00     | 50      |
+| **music.play**         | 1.00      | 1.00   | 1.00     | 50      |
+| **news.request**       | 1.00      | 1.00   | 1.00     | 50      |
+| **reminder.set**       | 1.00      | 1.00   | 1.00     | 50      |
+| **restaurant.search**  | 1.00      | 1.00   | 1.00     | 50      |
+| **smalltalk.goodbye**  | 1.00      | 1.00   | 1.00     | 50      |
+| **smalltalk.greeting** | 1.00      | 1.00   | 1.00     | 50      |
+| **time.request**       | 1.00      | 1.00   | 1.00     | 50      |
+| **weather.request**    | 1.00      | 1.00   | 1.00     | 50      |
+| **Accuracy**           | —         | —      | **1.00** | **500** |
+| **Macro avg**          | 1.00      | 1.00   | 1.00     | 500     |
+| **Weighted avg**       | 1.00      | 1.00   | 1.00     | 500     |
+
+### 5.2 Conclusion
+The model currently has an overall accuracy of 100%. It has therefore learned the training data perfectly!
+Now... much more training data is required.
