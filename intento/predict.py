@@ -16,6 +16,6 @@ def predict_intent(sentence: str):
     return Le.inverse_transform([idx])[0], float(probs[idx])
 
 if __name__ == "__main__":
-    text = " ".join(sys.argv[1:]) or input("👤 Eingabe: ")
+    text = " ".join(sys.argv[1:]) or input("Input: ")
     intent, conf = predict_intent(text)
-    print(f"→ {intent}  ({conf:.2%})")
+    print(f"Result: {intent}  ({conf:.2%})")
